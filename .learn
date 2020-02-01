@@ -1,7 +1,7 @@
-tags:jkk
- nn - variable assignment
-mjm  - variables
-languages:mmm
- kk - ruby
+tags:
+ - variable assignment
+  - variables
+languages:
+ - ruby
 resources: 2
 
